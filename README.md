@@ -1,5 +1,3 @@
-# ShareSafe
-
 # Open UP
 
 This is a minature version of the social media platform, where users can create post, like, dislike and share them.
